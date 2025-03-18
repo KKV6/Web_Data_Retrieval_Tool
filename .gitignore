@@ -1,0 +1,14 @@
+# Exclude virtual environment
+webdata_venv/
+
+# Exclude environment files
+.env
+
+# Exclude JetBrains IDE settings
+.idea/
+
+# Exclude Python cache files
+__pycache__/
+
+# Exclude Jupyter Notebook checkpoints
+Notebooks/.ipynb_checkpoints/
