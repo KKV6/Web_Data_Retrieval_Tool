@@ -7,5 +7,5 @@ venv_name\Scripts\activate
 ### Install Requirements
 pip install -r requirements.txt
 
-### Navigate to he Project Folder
+### Navigate to the Project Folder
 streamlit run main.py
